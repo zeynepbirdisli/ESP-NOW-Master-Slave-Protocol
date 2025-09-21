@@ -1,0 +1,14 @@
+/build/
+/build-*/
+*.elf
+*.bin
+*.map
+*.log
+
+sdkconfig
+sdkconfig.old
+
+.vscode/
+.devcontainer/
+*.swp
+.DS_Store
